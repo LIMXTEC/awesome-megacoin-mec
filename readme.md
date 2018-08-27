@@ -9,15 +9,19 @@ Contributions are always welcome!
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
-* [Demos](#demos)
-* [Sample Projects](#sample-projects)
-* [Extensions](#extensions)
-* [Libraries](#libraries)
+* [Wallets](#wallets)
+* [Explorer](#explorer)
+* [Exchanges](#exchanges)
+* [Auto Exchanges](#auto-exchanges)
+* [Bill Service](#bill-service)
+* [Games](#games)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
-* [Tooling](#tooling)
+* [Tools](#tools)
 * [Community](#community)
+* [Telegram Channels](#telegram-channels)
+* [Pools](#pools)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -34,24 +38,39 @@ All script is provided AS IS with no support or warranties.
 ## General
 * [Megacoin Webpage](https://megacoin.eu/) Megacoin MEC Webpage with all Infos about.
 
-## Demos
+## Wallets
+* [Megacoin QT Wallet](https://github.com/LIMXTEC/Megacoin/releases) Megacoin Github releases
+* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
+* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
 
-## Sample Projects
+## Explorer
+* [cryptoID](https://chainz.cryptoid.info/mec/) Megacoin chainz Blockexplorer
 
-## Extensions
+## Exchanges
+* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=MEC_BTC)
+* [Coinexchange](https://www.coinexchange.io/market/MEC/BTC)
 
-## Libraries
+
+## Auto Exchanges
+
+## Bill Service
+
+## Games
 
 ## Videos
 
 ## Articles
-  
+
 ## Podcasts
 
 ## Tools
-  
+
 ## Community
 * [Megacoin Twitter](https://twitter.com/megacoin_mec) Megacoin Twitter feed.
+
+## Telegram Channels
+
+## Pools
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
