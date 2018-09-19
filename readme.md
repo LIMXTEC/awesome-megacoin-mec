@@ -35,6 +35,58 @@ All script is provided AS IS with no support or warranties.
 ### Requirements
 [ ]
 
+### Network Details
+* MainNetwork Details
+```
+Network Magic = 
+Default Port = 
+Seed = 
+PUBKEY_ADDRESS = 
+PUBKEY_ADDRESS_HEX =  
+SCRIPT_ADDRESS = 
+SCRIPT_ADDRESS_HEX = 
+SECRET_KEY = 
+SECRET_KEY_HEX = 
+EXT_PUBLIC_KEY = 
+EXT_SECRET_KEY = 
+BIP32_PATH = m/44'/217'/0'/
+Genesis = 
+MerkleRoot = 
+```
+* TestNetwork Details
+```
+Network Magic = 
+Default Port = 
+Seed = 
+PUBKEY_ADDRESS = 
+PUBKEY_ADDRESS_HEX = 
+SCRIPT_ADDRESS = 
+SCRIPT_ADDRESS_HEX = 
+SECRET_KEY = 
+SECRET_KEY_HEX = 
+EXT_PUBLIC_KEY = 
+EXT_SECRET_KEY = 
+BIP32_PATH = m/44'/1'/0'/
+Genesis = 
+MerkleRoot = 
+```
+* RegTest Details
+```
+Network Magic = 
+Default Port = 
+Seed =
+PUBKEY_ADDRESS = 
+PUBKEY_ADDRESS_HEX = 
+SCRIPT_ADDRESS = 
+SCRIPT_ADDRESS_HEX = 
+SECRET_KEY = 
+SECRET_KEY_HEX = 
+EXT_PUBLIC_KEY = 
+EXT_SECRET_KEY = 
+Genesis = 
+MerkleRoot = 
+```
+
 ## General
 * [Megacoin Webpage](https://megacoin.eu/) Megacoin MEC Webpage with all Infos about.
 
