@@ -38,7 +38,7 @@ All script is provided AS IS with no support or warranties.
 ### Network Details
 * MainNetwork Details
 ```
-Network Magic = 0xED, 0XE, 0xE4, 0xEE
+Network Magic = 0xED, 0xE0, 0xE4, 0xEE
 Default Port = 7951
 Seed = 
 PUBKEY_ADDRESS = 50
