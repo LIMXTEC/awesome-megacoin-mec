@@ -40,6 +40,7 @@ All script is provided AS IS with no support or warranties.
 ```
 Network Magic = 0xED, 0xE0, 0xE4, 0xEE
 Default Port = 7951
+RPC Port = 7952
 Seed = 
 PUBKEY_ADDRESS = 50
 PUBKEY_ADDRESS_HEX = 0x32 
@@ -49,7 +50,7 @@ SECRET_KEY (WIF) = 178
 SECRET_KEY_HEX (WIF) = 0xB2
 EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
 EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
-BIP32_PATH = m/44'/217'/0'/
+BIP44_PATH = m/44'/217'/0'/
 Genesis = 0x7520788e2d99eec7cf6cf7315577e1268e177fff94cb0a7caf6a458ceeea9ac2
 MerkleRoot = 0x6065d08d755e00a90449abe8a0923d0622feb6f7ab3f435c337369334119e636
 ```
@@ -57,6 +58,7 @@ MerkleRoot = 0x6065d08d755e00a90449abe8a0923d0622feb6f7ab3f435c337369334119e636
 ```
 Network Magic = 0xFD, 0xF0, 0xF4, 0xFE
 Default Port = 19444
+RPC Port = 50732
 Seed = 
 PUBKEY_ADDRESS = 111
 PUBKEY_ADDRESS_HEX = 0x6F
@@ -66,7 +68,7 @@ SECRET_KEY (WIF) = 239
 SECRET_KEY_HEX (WIF) = 0xEF
 EXT_PUBLIC_KEY = 0x04, 0x35, 0x87, 0xCF
 EXT_SECRET_KEY = 0x04, 0x35, 0x83, 0x94
-BIP32_PATH = m/44'/1'/0'/
+BIP44_PATH = m/44'/1'/0'/
 Genesis = 0x7520788e2d99eec7cf6cf7315577e1268e177fff94cb0a7caf6a458ceeea9ac2
 MerkleRoot = 0x6065d08d755e00a90449abe8a0923d0622feb6f7ab3f435c337369334119e636
 ```
