@@ -22,6 +22,8 @@ Contributions are always welcome!
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
+* [Development Libraries](#development-libraries)
+* [Network Details](#network-details)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -35,7 +37,48 @@ All script is provided AS IS with no support or warranties.
 ### Requirements
 [ ]
 
-### Network Details
+## General
+* [Megacoin Webpage](https://megacoin.eu/) Megacoin MEC Webpage with all Infos about.
+
+## Wallets
+* [Megacoin QT Wallet](https://github.com/LIMXTEC/Megacoin/releases) Megacoin Github releases
+* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
+* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
+
+## Explorer
+* [cryptoID](https://chainz.cryptoid.info/mec/) Megacoin chainz Blockexplorer
+
+## Exchanges
+* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=MEC_BTC)
+* [Coinexchange](https://www.coinexchange.io/market/MEC/BTC)
+
+
+## Auto Exchanges
+
+## Bill Service
+
+## Games
+
+## Videos
+
+## Articles
+
+## Podcasts
+
+## Tools
+
+## Community
+* [Megacoin Twitter](https://twitter.com/megacoin_mec) Megacoin Twitter feed.
+
+## Telegram Channels
+
+## Pools
+
+## Development Libraries
+* [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
+* [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
+
+## Network Details
 * MainNetwork Details
 ```
 Network Magic = 0xED, 0xE0, 0xE4, 0xEE
@@ -89,43 +132,6 @@ EXT_SECRET_KEY = 0x04, 0x35, 0x83, 0x94
 Genesis = 0x7520788e2d99eec7cf6cf7315577e1268e177fff94cb0a7caf6a458ceeea9ac2
 MerkleRoot = 0x6065d08d755e00a90449abe8a0923d0622feb6f7ab3f435c337369334119e636
 ```
-
-## General
-* [Megacoin Webpage](https://megacoin.eu/) Megacoin MEC Webpage with all Infos about.
-
-## Wallets
-* [Megacoin QT Wallet](https://github.com/LIMXTEC/Megacoin/releases) Megacoin Github releases
-* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
-* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
-
-## Explorer
-* [cryptoID](https://chainz.cryptoid.info/mec/) Megacoin chainz Blockexplorer
-
-## Exchanges
-* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=MEC_BTC)
-* [Coinexchange](https://www.coinexchange.io/market/MEC/BTC)
-
-
-## Auto Exchanges
-
-## Bill Service
-
-## Games
-
-## Videos
-
-## Articles
-
-## Podcasts
-
-## Tools
-
-## Community
-* [Megacoin Twitter](https://twitter.com/megacoin_mec) Megacoin Twitter feed.
-
-## Telegram Channels
-
-## Pools
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
