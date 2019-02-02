@@ -18,13 +18,13 @@ Contributions are always welcome!
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
-* [Tools](#tools)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
 * [Tools and Services](#tools-and-services)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
+* [SLIP and BIP Details](#slip-and-bip-details)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -35,19 +35,20 @@ Megacoin is a Opensource and Peer to Peer Cryptocurreny started in Jul 2013.
 ### Warning
 All script is provided AS IS with no support or warranties.
 
-### Requirements
-[ ]
 
 ## General
 * [Megacoin Webpage](https://megacoin.eu/) Megacoin MEC Webpage with all Infos about.
+
 
 ## Wallets
 * [Megacoin QT Wallet](https://github.com/LIMXTEC/Megacoin/releases) Megacoin Github releases
 * [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
 * [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
 
+
 ## Explorer
 * [cryptoID](https://chainz.cryptoid.info/mec/) Megacoin chainz Blockexplorer
+
 
 ## Exchanges
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=MEC_BTC)
@@ -56,33 +57,42 @@ All script is provided AS IS with no support or warranties.
 
 ## Auto Exchanges
 
+
 ## Bill Service
+
 
 ## Games
 
+
 ## Videos
+
 
 ## Articles
 
+
 ## Podcasts
 
-## Tools
 
 ## Community
 * [Megacoin Twitter](https://twitter.com/megacoin_mec) Megacoin Twitter feed.
 
+
 ## Telegram Channels
 
-## Pools
+
+##Pools
+
 
 ## Tools and Services
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
 * [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
+
 ## Development Libraries
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
+
 
 ## Network Details
 * MainNetwork Details
@@ -139,10 +149,18 @@ Genesis = 0x7520788e2d99eec7cf6cf7315577e1268e177fff94cb0a7caf6a458ceeea9ac2
 MerkleRoot = 0x6065d08d755e00a90449abe8a0923d0622feb6f7ab3f435c337369334119e636
 ```
 
+
+## SLIP and BIP Details
+* [Megacoin coinparams](https://github.com/dan-da/coinparams/blob/master/coins/mec.json) Specific information such as key prefixes, DNS seeds, bip32, bip44, etc, available in JSON format.
+* [Satoshilabs SLIP132/BIP-0032](https://github.com/satoshilabs/slips/blob/master/slip-0132.md#registered-hd-version-bytes) Registered HD version bytes, e.g. xpub, ypub, zpub, Ypub, Zpub
+* [Satoshilabs SLIP-0044/BIP-0044](https://github.com/satoshilabs/slips/blob/master/slip-0044.md) BIP-0044 defines a logical hierarchy for deterministic wallets.
+
+
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
 * [Bitcore](https://github.com/LIMXTEC/awesome-bitcore-btx/) Bitcore Awesome List
 * [Bitsend](https://github.com/LIMXTEC/awesome-bitsend-bsd/) Bitsend Awesome List
+
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/LIMXTEC/awesome-megacoin-mec/blob/master/contributing.md) for details.
