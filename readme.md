@@ -22,6 +22,7 @@ Contributions are always welcome!
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
+* [Tools and Services](#tools-and-services)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -73,6 +74,11 @@ All script is provided AS IS with no support or warranties.
 ## Telegram Channels
 
 ## Pools
+
+## Tools and Services
+* [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
+* [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
+* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
 ## Development Libraries
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
