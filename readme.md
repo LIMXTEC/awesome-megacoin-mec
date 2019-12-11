@@ -39,6 +39,7 @@ All script is provided AS IS with no support or warranties.
 
 ## General
 * [Megacoin Webpage](https://megacoin.eu/) Megacoin MEC Webpage with all Infos about.
+* [Megacoin ANN English](https://bitcointalk.org/index.php?topic=2242071.0) Megacoin Bitcointalk Thread English
 
 
 ## Wallets
@@ -84,7 +85,7 @@ All script is provided AS IS with no support or warranties.
 
 
 ## Telegram Channels
-
+* [Telegram Main Channel (English)](https://t.me/Megacoin_MEC) Megacoin Telegram **Main** Channel English
 
 ## Pools
 
