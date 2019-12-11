@@ -105,6 +105,7 @@ All script is provided AS IS with no support or warranties.
 * MainNetwork Details
 ```
 Network Magic = 0xED, 0xE0, 0xE4, 0xEE
+MessageMagic = "MegaCoin Signed Message:\n"
 Default Port = 7951
 RPC Port = 7952
 Seed = 
